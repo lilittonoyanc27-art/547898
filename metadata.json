@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra Fútbol: Español y Armenio",
+  "description": "Juego de Pasapalabra con 27 preguntas de fútbol en español y armenio. 27 հարց ֆուտբոլի մասին հայերեն և իսպաներեն։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
